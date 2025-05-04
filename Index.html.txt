@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Steve Jobs</h1>
+      <p>"La innovación distingue a un líder de un seguidor."</p>
+      <figure id="img-div">
+        <img id="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRcAo5GeFnOdqhSGbedaXixVsacO_aMV4Zqg&s" alt="Steve Jobs - Biografía y lecciones de un emprendedor">
+        <figcaption id="img-caption">
+          "Tu trabajo va a llenar una gran parte de tu vida, y la única manera de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única manera de hacer un gran trabajo es amar lo que haces."
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="headline">Aquí tienes una línea de tiempo de la vida de Steve Jobs:</h3>
+        <ul>
+          <li><strong>1955</strong> - Nace en San Francisco, California.</li>
+          <li><strong>1972</strong> - Se gradúa de la escuela secundaria y se inscribe en Reed College, pero abandona después de un semestre.</li>
+          <li><strong>1976</strong> - Cofunda Apple Computer junto a Steve Wozniak y Ronald Wayne en el garaje de la casa de los padres de Jobs.</li>
+          <li><strong>1984</strong> - Apple lanza el Macintosh, el primer ordenador personal con una interfaz gráfica de usuario.</li>
+          <li><strong>1985</strong> - Jobs es despedido de Apple tras una lucha interna de poder. Más tarde funda NeXT y compra Pixar, que más tarde se convierte en un gigante de la animación.</li>
+          <li><strong>1997</strong> - Apple compra NeXT y Jobs regresa a la compañía que fundó.</li>
+          <li><strong>2001</strong> - Apple lanza el iPod, revolucionando la industria de la música digital.</li>
+          <li><strong>2007</strong> - Apple presenta el iPhone, cambiando la industria de los teléfonos móviles para siempre.</li>
+          <li><strong>2011</strong> - Steve Jobs fallece el 5 de octubre a los 56 años de edad debido a un cáncer pancreático.</li>
+        </ul>
+        <blockquote cite="https://www.biography.com/business-figure/steve-jobs">
+          <p>
+            "La gente que está lo suficientemente loca como para pensar que puede cambiar el mundo, es la que lo hace."
+          </p>
+          <cite>-- Steve Jobs</cite>
+        </blockquote>
+        <h3>
+          Si tienes tiempo, deberías leer más sobre este increíble ser humano en su
+          <a
+            id="tribute-link"
+            href="https://es.wikipedia.org/wiki/Steve_Jobs"
+            target="_blank"
+            >entrada de Wikipedia</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
